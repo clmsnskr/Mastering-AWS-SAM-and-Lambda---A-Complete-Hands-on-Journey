@@ -7,14 +7,14 @@
   "author": "SAM CLI",
   "license": "MIT",
   "dependencies": {
-    "axios": ">=0.21.1",
-    "uuid": "^8.3.2"
+    "axios": ">=0.31.0",
+    "uuid": "^14.0.0"
   },
   "scripts": {
     "test": "mocha tests/unit/"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^9.1.4"
+    "mocha": "^11.7.5"
   }
 }
